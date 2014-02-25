@@ -1,4 +1,4 @@
-sass-mixins
+Sass Mixins
 ===========
 
 General usage Sass Mixins
